@@ -2,12 +2,12 @@
 
 |  NAME |  Speed  |  2  Speed | 2 Speed  |   Speed | 
 |---|---|---|---|---|
-|gtk-rs	| Yes	| Cross-platform|
-|fltk-rs	| Yes |	Cross-platform|
-|iced	| No |	Cross-platform and web|
-|relm	| No |	Cross-platform|
-|Azul	| Yes |	Cross-platform|
-|egui	| Older Releases |	Cross-platform|
-|Tauri	| Yes |	Desktop and web|
-|Slint	| Yes |	Cross-platform and web (for demo purposes)|
-|Druid	| Yes |	Desktop and web|
+|gtk-rs	| Rust | Yes	| Cross-platform|
+|fltk-rs	|  Rust | Yes |	Cross-platform|
+|iced	|  Rust | No |	Cross-platform and web|
+|relm	|  Rust | No |	Cross-platform|
+|Azul	|  Rust | Yes |	Cross-platform|
+|egui	|  Rust | Older Releases |	Cross-platform|
+|Tauri	|  Rust | Yes |	Desktop and web|
+|Slint	|  Rust | Yes |	Cross-platform and web (for demo purposes)|
+|Druid	|  Rust | Yes |	Desktop and web|
