@@ -16,6 +16,29 @@
 |  wxWidgets formerly wxWindows |C|Yes| wxWidgets team | X11 , Wayland , OpenLook , macOS , iOS , Microsoft Windows , OS/2 | Free: wxWindows |
 
 
+|Name | Owner | Programming language | Active | Platforms | License|
+|---|---|---|---|---|---|
+|  Apache Flex Formerly Adobe Flex | Apache Software Foundation | ActionScript , Flash, Adobe AIR | Windows (x86, x64), macOS, Android (ARM, x86), iOS, Web ( SWF ) | Free: Apache|
+|  Apache Pivot | Apache Software Foundation | Java |Yes| Windows, macOS, Linux | Free: Apache|
+|  Delphi , FireMonkey | Embarcadero Technologies | Object Pascal |Yes| Windows, macOS, Linux, iOS, Android | Proprietary|
+|  Flutter | Google | C , C++ , Dart |Yes| Android, iOS (experimental: Web, Linux, Windows, macOS) | Free: New BSD License|
+|  Fyne | Open source | Go |Yes| Windows, macOS, Linux, BSD, Android, iOS (experimental: Web) | Free: New BSD License|
+|  Godot (game engine) | Open source | GDScript , C++ , C# , GDNative |Yes| Linux, macOS, Windows, BSD, Haiku, iOS, Android, HTML5, WebAssembly, Xbox One, Universal Windows Platform, also useful for making GUI apps in VR (OpenXR and WebXR) | Free: MIT|
+|  PureBasic | Fantaisie Software | BASIC |Yes| Windows, Linux and OSX | Proprietary|
+|  JavaFX | Oracle Corporation | Java |Yes| Windows, Linux X11, macOS, Android, iOS | Free: CDDL , GPL with linking exception|
+|  Kivy | Kivy | Python |Yes| Linux, Windows, macOS, Android, iOS | Free: MIT|
+|  LCL, Lazarus | Open source | Free Pascal |Yes| Windows (Win32, Qt), Linux (GTK, Qt), macOS (Qt, Carbon, Cocoa) |Yes| Free: GPL , LGPL|
+|  Mono, GTK# | Xamarin | C# |Yes| Windows, Linux (X11, Wayland), macOS | Free: MIT , LGPLv 2, GPLv2 ( dual license )|
+|  Swing | Oracle Corporation | Java |Yes| Windows, Linux X11, macOS | Free: CDDL , GPL with linking exception|
+|  SWT | Eclipse Foundation | Java |Yes| Windows (Win32), Linux (GTK), macOS (Cocoa) | Free: Eclipse|
+|  Tcl / Tk | Open source | Tcl |Yes| Windows, OS/2, X11, OpenLook, Mac, Android | Free: BSD-style|
+|  Unity | Unity Technologies | C# , JavaScript , Boo |Yes| Windows, X11, macOS, Android, iOS also features cross-platform Web player | Proprietary , based on open-source|
+|  Uno Platform | nventive | C# , XAML , WASM |Yes| Windows, iOS, Android, Web (WebAssembly), experimental macOS | Free: Apache|
+|  VisualWorks | Cincom | Smalltalk |Yes| Windows, OS/2, Linux (X11), OpenLook, Mac | Proprietary|
+|  Xojo | Xojo, Inc. | Xojo |Yes| Windows, macOS, Linux (X11), iOS, web | Proprietary|
+|  LispWorks CAPI | LispWorks, Ltd. | Common Lisp |Yes| Windows, macOS, Linux (Gtk+), Motif | Proprietary|
+
+
 |  NAME |  Language  |  Active | Platforn  |   Speed | 
 |---|---|---|---|---|
 |gtk-rs	| Rust | Yes	| Cross-platform|
