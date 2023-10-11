@@ -1,6 +1,6 @@
 # GUI-Libs-Benchmarked
 
-|  NAME |  Speed  |  2  Speed | 2 Speed  |   Speed | 
+|  NAME |  Language  |  Active | Platforn  |   Speed | 
 |---|---|---|---|---|
 |gtk-rs	| Rust | Yes	| Cross-platform|
 |fltk-rs	|  Rust | Yes |	Cross-platform|
